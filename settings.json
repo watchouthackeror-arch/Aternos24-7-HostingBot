@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": TheChosensSmp.aternos.me:27302
+    "port": 27302,
     "version": "",
     "try-creative": false
   },
